@@ -40,8 +40,9 @@ CONTACT ME
 
 🌐 Portfolio: https://joelsabato.github.io/academicpojects/ Open to learning, collaboration, and new ideas
 
-Fun Fact
-I believe in learning by doing — every small project I build takes me one step closer to mastery.
+FUN FACT
+
+I believe in learning by doing every small project I build takes me one step closer to mastery.
 
 Thank you for visiting my profile!
 If you want, I can make it even more advanced (with badges, animations, and GitHub stats) to look like a professional developer profile.
